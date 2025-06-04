@@ -407,6 +407,11 @@ rules:
 
 </details>
 
+![FLClash 1](https://github.com/user-attachments/assets/2cfd91a3-e76f-40ad-95e0-402c5e8c5e7e)
+![FLClash 2](https://github.com/user-attachments/assets/97e14b01-9c53-467c-b24d-a18f3190266d)
+![FLClash 3](https://github.com/user-attachments/assets/3ccc4580-f655-400e-bb7b-61777b548bad)
+![FLClash 4](https://github.com/user-attachments/assets/460dbfba-60e6-4485-9ee2-70aadbcee505)
+
 ---
 
 > 🤍 Разработано с любовью к свободе интернета и логике маршрутизации.
